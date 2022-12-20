@@ -1,0 +1,4 @@
+settings.py
+website/migrations
+manage.py
+db.sqlite3
